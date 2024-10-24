@@ -1,9 +1,7 @@
-# Introduction
+# What's This Book About?
 
-This is a book created from markdown and executable code.
+This book is about getting the gist of writing code in Pyspark using the Databricks platform as fast as possible.
 
-See @knuth84 for additional discussion of literate programming.
+I don't know about you, but I prefer to learn things when they are stated directly as possible too. That will then be our goal as we go through the content.
 
-```{r}
-1 + 1
-```
+The intended teaching philosophy of this book is to allow you (the learner) to jump right in from the get-go with Pyspark and Databricks through first fiddling with small examples and then eventually becoming more granular in terms of depth while we ask ourselves some questions as we explore.
