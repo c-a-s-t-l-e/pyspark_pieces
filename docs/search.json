@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Pyspark Pieces",
     "section": "",
-    "text": "About This Book\nThis is a book intended for those that want to get the gist of writing code in Pyspark using the Databricks platform as fast as possible.\nI don’t know about you, but I prefer to learn things when they are stated directly as possible too. That will then be our goal as we go through the content.",
+    "text": "1 What’s This Book About?\nThis book is about getting the gist of writing code in Pyspark using the Databricks platform as fast as possible.\nI don’t know about you, but I prefer to learn things when they are stated directly as possible too. That will then be our goal as we go through the content.\nThe intended teaching philosophy of this book is to allow you (the learner) to jump right in from the get-go with Pyspark and Databricks through first fiddling with small examples and then eventually becoming more granular in terms of depth while we ask ourselves some questions as we explore.",
     "crumbs": [
-      "About This Book"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>What's This Book About?</span>"
     ]
   },
   {
@@ -35,7 +35,7 @@
     "href": "whole-game.html",
     "title": "The Whole Game",
     "section": "",
-    "text": "This book is about the whole game.",
+    "text": "This book is about the whole game.\nWith that being said, here’s our first foray into Pyspark. Unlike with traditional approaches to teaching, our intention is to get you started with the understanding of what the bare minimum could look when it comes to processing data and then you go from there.\nIn this section, we’ll go over a few different examples:\n1) How To Build a Logistic Regression Model for Author Identification\n2) Idea #2\n3) Idea #3",
     "crumbs": [
       "The Whole Game"
     ]
@@ -43,12 +43,34 @@
   {
     "objectID": "modeling-data.html",
     "href": "modeling-data.html",
-    "title": "2  From Data to Models",
+    "title": "3  From Data to Models",
     "section": "",
     "text": "Here’s our first foray into Pyspark. Unlike with traditional approaches to teaching, our intention is to get you started with the understanding of what the bare minimum could look when it comes to processing data.\nWe’ll go over a few different examples:\n1) How To Build a Logistic Regression Model for Author Identification\n2) Idea #2\n3) Idea #3",
     "crumbs": [
       "The Whole Game",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>From Data to Models</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>From Data to Models</span>"
+    ]
+  },
+  {
+    "objectID": "set-up.html",
+    "href": "set-up.html",
+    "title": "2  Getting Set-Up",
+    "section": "",
+    "text": "About getting set-up.",
+    "crumbs": [
+      "The Whole Game",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Getting Set-Up</span>"
+    ]
+  },
+  {
+    "objectID": "logistic-author.html",
+    "href": "logistic-author.html",
+    "title": "3  From Data to Models",
+    "section": "",
+    "text": "Here’s our first foray into Pyspark. Unlike with traditional approaches to teaching, our intention is to get you started with the understanding of what the bare minimum could look when it comes to processing data.\nWe’ll go over a few different examples:\n1) How To Build a Logistic Regression Model for Author Identification\n2) Idea #2\n3) Idea #3",
+    "crumbs": [
+      "The Whole Game",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>From Data to Models</span>"
     ]
   }
 ]

@@ -7,11 +7,12 @@ book:
   author: "Abram Astle"
   date: "10/24/2024"
   chapters:
-    - intro.qmd
+    - index.qmd
 
     - part: whole-game.qmd
       chapters:
-        - modeling-data.qmd
+        - set-up.qmd
+        - logistic-author.qmd
 
   page-navigation: true
 
