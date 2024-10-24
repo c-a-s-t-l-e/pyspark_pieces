@@ -1,9 +1,10 @@
 project:
-  type: book
+  type: website
+  output-dir: docs
 
 book:
-  title: "pyspark_pieces"
-  author: "Norah Jones"
+  title: "Pyspark Pieces"
+  author: "Abram Astle"
   date: "10/24/2024"
   chapters:
     - index.qmd
