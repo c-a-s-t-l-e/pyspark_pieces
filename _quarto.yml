@@ -9,8 +9,11 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - summary.qmd
-    - references.qmd
+
+    - part: whole-game.qmd
+      chapters:
+        - modeling-data.qmd
+
   page-navigation: true
 
 bibliography: references.bib
