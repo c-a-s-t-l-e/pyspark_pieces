@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Pyspark Pieces",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2",
+    "text": "About This Book\nThis is a book intended for those that want to get the gist of writing code in Pyspark using the Databricks platform as fast as possible.\nI don’t know about you, but I prefer to learn things when they are stated directly as possible too. That will then be our goal as we go through the content.",
     "crumbs": [
-      "Preface"
+      "About This Book"
     ]
   },
   {
@@ -20,23 +20,35 @@
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "data-visualize.html",
+    "href": "data-visualize.html",
+    "title": "2  Data Visualization",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "text": "This chapter is on visualizing our data in Databricks.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "The Whole Game",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Data Visualization</span>"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
+    "objectID": "whole-game.html",
+    "href": "whole-game.html",
+    "title": "The Whole Game",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "text": "This book is about the whole game.",
     "crumbs": [
-      "References"
+      "The Whole Game"
+    ]
+  },
+  {
+    "objectID": "modeling-data.html",
+    "href": "modeling-data.html",
+    "title": "2  From Data to Models",
+    "section": "",
+    "text": "Here’s our first foray into Pyspark. Unlike with traditional approaches to teaching, our intention is to get you started with the understanding what the bare minimum could look and then how to improve from there.",
+    "crumbs": [
+      "The Whole Game",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>From Data to Models</span>"
     ]
   }
 ]
