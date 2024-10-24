@@ -45,7 +45,7 @@
     "href": "modeling-data.html",
     "title": "2  From Data to Models",
     "section": "",
-    "text": "Here’s our first foray into Pyspark. Unlike with traditional approaches to teaching, our intention is to get you started with the understanding what the bare minimum could look and then how to improve from there.",
+    "text": "Here’s our first foray into Pyspark. Unlike with traditional approaches to teaching, our intention is to get you started with the understanding of what the bare minimum could look when it comes to processing data.\nWe’ll go over a few different examples:\n1) How To Build a Logistic Regression Model for Author Identification\n2) Idea #2\n3) Idea #3",
     "crumbs": [
       "The Whole Game",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>From Data to Models</span>"

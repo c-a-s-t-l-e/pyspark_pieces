@@ -2,4 +2,12 @@
 title: "From Data to Models"
 ---
 
-Here's our first foray into Pyspark. Unlike with traditional approaches to teaching, our intention is to get you started with the understanding what the bare minimum could look and then how to improve from there.
+Here's our first foray into Pyspark. Unlike with traditional approaches to teaching, our intention is to get you started with the understanding of what the bare minimum could look when it comes to processing data.
+
+We'll go over a few different examples:
+
+1\) How To Build a Logistic Regression Model for Author Identification
+
+2\) Idea #2
+
+3\) Idea #3
