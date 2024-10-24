@@ -1,9 +1,5 @@
-# Preface {.unnumbered}
+# About This Book {.unnumbered}
 
-This is a Quarto book.
+This is a book intended for those that want to get the gist of writing code in Pyspark using the Databricks platform as fast as possible.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
-
-```{r}
-1 + 1
-```
+I don't know about you, but I prefer to learn things when they are stated directly as possible too. That will then be our goal as we go through the content.
